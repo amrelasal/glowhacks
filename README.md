@@ -21,6 +21,10 @@ npm run dev
 - Replace the placeholder email in `src/lib/site.ts`.
 - Review the About and Privacy pages.
 
+## Tools
+
+All 30 tools are fully built and run 100% in the browser (see `src/components/tools`).
+
 ## Adding a new tool
 
 1. Create `src/components/tools/MyTool.tsx` (with `"use client"`).
